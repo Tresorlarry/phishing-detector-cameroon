@@ -62,3 +62,38 @@ print(uci_clean["label"].value_counts())
 print("\nSample of cleaned data:")
 print(uci_clean.head(10))
 print("\nDone! UCI dataset is ready.")
+email_data = pd.read_csv("dataset/Phishing_Email.csv")
+print("Email dataset columns: " + str(email_data.columns.tolist()))
+print("Total emails: " + str(len(email_data)))
+print(email_data.head())
+email_data = pd.read_csv("dataset/Phishing_Email.csv")
+
+email_data = email_data[["Email Text", "Email Type"]].copy()
+email_data.columns = ["message", "label"]
+
+email_data["label"] = email_data["label"].map({
+    "Safe Email": 0,
+    "Phishing Email": 2
+})
+
+email_data["source"] = "Email"
+email_data = email_data.dropna()
+
+email_clean = email_data[["message", "source", "label"]].copy()
+email_clean.to_csv("dataset/email_clean.csv", index=False)
+
+print("Email dataset cleaned!")
+print("Total emails: " + str(len(email_clean)))
+print(email_clean["label"].value_counts())
+cameroon = pd.read_csv("dataset/cameroon_dataset.csv")
+uci = pd.read_csv("dataset/uci_clean.csv")
+email = pd.read_csv("dataset/email_clean.csv")
+
+final = pd.concat([uci, email, cameroon], ignore_index=True)
+final = final.dropna()
+
+final.to_csv("dataset/final_dataset.csv", index=False)
+
+print("Final dataset created!")
+print("Total messages: " + str(len(final)))
+print(final["label"].value_counts())

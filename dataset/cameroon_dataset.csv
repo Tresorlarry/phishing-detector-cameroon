@@ -1,0 +1,101 @@
+message,source,label
+"Votre compte MTN Mobile Money a été crédité de 25000 FCFA. Solde: 47500 FCFA.",SMS,0
+"Orange Money: Vous avez reçu 10000 FCFA de +237612345678. Nouveau solde: 35000 FCFA.",SMS,0
+"MTN: Votre transfert de 5000 FCFA vers +237699887766 a été effectué avec succès.",SMS,0
+"Votre solde MTN MoMo est de 12500 FCFA. Merci d'utiliser MTN Mobile Money.",SMS,0
+"Orange Money: Transaction réussie. Vous avez envoyé 8000 FCFA à Jean Paul.",SMS,0
+"MTN Mobile Money: Retrait de 20000 FCFA effectué au agent MoMo 001234. Solde: 5000 FCFA.",SMS,0
+"Votre paiement Orange Money de 3500 FCFA pour Canal+ a été traité avec succès.",SMS,0
+"MTN: Dépôt de 50000 FCFA reçu sur votre compte MoMo. Solde actuel: 62000 FCFA.",SMS,0
+"Congratulations! Your MTN MoMo account has been credited with 5000 FCFA airtime.",SMS,0
+"Orange Money: Your bill payment of 15000 FCFA to ENEO was successful.",SMS,0
+"ALERTE MTN: Votre compte Mobile Money sera suspendu. Confirmez votre PIN au 676000000.",SMS,2
+"URGENT: Votre compte Orange Money est bloqué. Envoyez votre code secret au 699000000 immédiatement.",SMS,2
+"Félicitations! Vous avez gagné 500000 FCFA dans la loterie MTN. Appelez le 676111222 maintenant.",SMS,2
+"MTN PROMO: Vous êtes sélectionné pour recevoir 1000000 FCFA. Envoyez votre PIN au 677999888.",SMS,2
+"Orange Money WINNER: Vous avez gagné un iPhone 15. Cliquez ici: bit.ly/orange-prize-cm",SMS,2
+"URGENT MTN: Suspicious activity detected on your MoMo account. Send PIN to verify: 676000111",SMS,2
+"Votre compte MTN sera fermé dans 24 heures. Envoyez 1000 FCFA au 676555444 pour réactiver.",SMS,2
+"Orange Money ALERTE: Transaction suspecte détectée. Confirmez votre identité: bit.ly/verify-orange",SMS,2
+"Cher client MTN, vous avez été sélectionné. Envoyez votre numéro MoMo et PIN au 677123456.",SMS,2
+"CONGRATULATIONS MTN USER: You won 2000000 FCFA lottery. Call 676999000 to claim your prize NOW.",SMS,2
+"MTN MoMo: Nous avons remarqué une activité inhabituelle. Vérifiez votre compte: mtn-momo-cm.tk",SMS,2
+"Orange: Votre compte expire bientôt. Rechargez 500 FCFA au 699111000 pour maintenir vos services.",SMS,2
+"MTN Alert: Your account will be suspended. Click here urgently: bit.ly/mtn-verify-cameroon",WhatsApp,2
+"Orange Money: Transaction de 75000 FCFA en attente. Confirmez avec PIN au +237677000111.",WhatsApp,2
+"Bourse d'étude DISPONIBLE: 50 places pour Canada 2024. Envoyez 5000 FCFA frais dossier au MoMo 676000999.",WhatsApp,2
+"RECRUTEMENT URGENT: Société pétrolière recrute. Frais inscription 3000 FCFA via Orange Money 699111222.",WhatsApp,2
+"MTN Mobile Money: Bonjour, je suis agent MTN. Votre compte a un problème. Donnez-moi votre PIN svp.",WhatsApp,2
+"Vous avez été sélectionné pour une bourse universitaire. Payez 10000 FCFA via MoMo pour confirmer.",WhatsApp,2
+"OFFRE EMPLOI: Salaire 350000 FCFA/mois. Envoyez CV + frais 5000 FCFA MoMo au 676888777.",WhatsApp,2
+"Orange Money Loterie Nationale: Numéro gagnant 4521. Réclamez 750000 FCFA au 699222333 avant minuit.",WhatsApp,2
+"MTN confirme: Vous recevrez 25000 FCFA bonus. Répondez avec votre PIN pour activer.",WhatsApp,2
+"Scholarship Alert: Full funding available. Send 2000 FCFA registration via MoMo to 676777555.",WhatsApp,2
+"MTN: Votre transfert a échoué. Veuillez réessayer ou contacter le service client au 676123456.",SMS,1
+"Orange Money: Nous avons détecté une connexion depuis un nouvel appareil sur votre compte.",SMS,1
+"Votre compte MTN MoMo nécessite une vérification. Visitez une agence MTN près de chez vous.",SMS,1
+"MTN: Mise à jour importante de votre compte Mobile Money requise. Contactez le 8585.",SMS,1
+"Orange Money: Une tentative de connexion a été détectée. Si ce n'est pas vous, contactez-nous.",SMS,1
+"Votre solde MTN est insuffisant pour cette transaction. Rechargez votre compte.",SMS,1
+"MTN Mobile Money: Votre compte sera temporairement limité pour maintenance ce soir.",SMS,1
+"Orange: Vérification de routine requise sur votre compte. Visitez notre agence la plus proche.",SMS,1
+"MTN MoMo: Bonjour, votre compte a été crédité de 15000 FCFA par +237677234567.",SMS,0
+"Orange Money: Retrait de 10000 FCFA effectué avec succès. Solde restant: 8500 FCFA.",SMS,0
+"MTN: Votre paiement de 2500 FCFA pour CAMWATER a été effectué avec succès.",SMS,0
+"Orange Money: Dépôt de 30000 FCFA reçu. Merci d'utiliser Orange Money.",SMS,0
+"MTN MoMo: Transfert de 7500 FCFA vers +237699112233 réussi. Solde: 22000 FCFA.",SMS,0
+"Orange: Votre abonnement Canal+ de 10000 FCFA a été renouvelé avec succès.",SMS,0
+"MTN Mobile Money: Votre facture ENEO de 18000 FCFA a été payée avec succès.",SMS,0
+"Orange Money: Vous avez envoyé 5000 FCFA à Marie Claire. Transaction réussie.",SMS,0
+"MTN MoMo: Bienvenue! Votre compte Mobile Money est maintenant activé.",SMS,0
+"Orange Money: Retrait de 25000 FCFA chez agent Orange 00445. Solde: 12000 FCFA.",SMS,0
+"URGENT ORANGE: Votre compte sera désactivé. Envoyez PIN au 699000111 maintenant!",SMS,2
+"MTN ALERTE: Gagnez 1500000 FCFA! Envoyez votre numéro MoMo et PIN au 676000222.",SMS,2
+"Orange Loterie: Vous avez gagné 800000 FCFA! Appelez le 699333444 avant ce soir.",SMS,2
+"MTN: Compte suspect détecté. Envoyez 500 FCFA au 676444555 pour débloquer.",SMS,2
+"BONNE NOUVELLE: Vous avez gagné une moto MTN. Payez 3000 FCFA frais livraison MoMo 676555666.",SMS,2
+"Orange Money URGENT: Votre PIN expire aujourd'hui. Renouvelez au 699666777 immédiatement.",SMS,2
+"MTN: Transfert international reçu 250000 FCFA. Confirmez avec PIN au 676777888.",SMS,2
+"Orange PROMO: Doublez votre argent! Envoyez 10000 FCFA au 699888999 recevez 20000 FCFA.",SMS,2
+"MTN MoMo ALERT: Your account has been compromised. Send PIN to 676999000 to secure it.",SMS,2
+"Orange: Agent officiel ici. Problème sur votre compte. Donnez PIN pour résoudre.",WhatsApp,2
+"Bourse Canada 2025: 30 places disponibles. Frais dossier 7500 FCFA via MTN MoMo 676111222.",WhatsApp,2
+"EMPLOI URGENT: Société minière recrute 50 personnes. Envoyez 4000 FCFA via Orange Money 699222333.",WhatsApp,2
+"ONU Cameroun recrute. Salaire 450000 FCFA. Payez frais 8000 FCFA MoMo 676333444 pour postuler.",WhatsApp,2
+"Bourse Chine 2025 entièrement financée. Inscription: 5000 FCFA Orange Money 699444555.",WhatsApp,2
+"MTN Foundation: Vous avez été sélectionné pour recevoir 300000 FCFA. Confirmez PIN au 676555444.",WhatsApp,2
+"RECRUTEMENT POLICE: 200 places. Frais medical 6000 FCFA via MoMo 676444333 avant vendredi.",WhatsApp,2
+"Orange Money WINNER: iPhone 14 gagné! Payez 2000 FCFA frais douane au 699333222.",WhatsApp,2
+"Ambassade USA: Visa gratuit disponible. Payez 15000 FCFA frais dossier MoMo 676222111.",WhatsApp,2
+"MTN: Vous avez été sélectionné pour 500MB gratuit. Cliquez: mtn-promo-cm.xyz",WhatsApp,2
+"Orange Money: Transaction échouée de 50000 FCFA. Réessayez ou appelez le 8686.",SMS,1
+"MTN: Votre compte Mobile Money nécessite une mise à jour. Visitez agence MTN.",SMS,1
+"Orange: Activité inhabituelle détectée sur votre compte. Vérifiez vos transactions.",SMS,1
+"MTN MoMo: Limite journalière presque atteinte. Transactions limitées jusqu'à demain.",SMS,1
+"Orange Money: Votre demande de transfert est en cours de traitement.",SMS,1
+"MTN: Maintenance programmée ce soir. Services MoMo temporairement indisponibles 22h-23h.",SMS,1
+"Orange: Nouveau dispositif de sécurité requis pour votre compte. Contactez le 8686.",SMS,1
+"MTN MoMo: Transaction en attente de confirmation depuis 2 heures. Contactez support.",SMS,1
+"Orange Money: Vérification de votre identité requise. Présentez-vous en agence.",SMS,1
+"MTN: Votre plafond mensuel MoMo est presque atteint. Limite: 5000000 FCFA.",SMS,1
+"Orange Money: Connexion depuis Douala détectée. Si ce n'est pas vous appelez le 8686.",SMS,1
+"MTN Mobile Money: Votre compte est en bonne santé. Solde disponible: 45000 FCFA.",SMS,0
+"Orange Money: Transaction de 12000 FCFA vers CAMTEL traitée avec succès.",SMS,0
+"MTN: Votre recharge de 1000 FCFA a été créditée. Nouveau solde: 3500 FCFA.",SMS,0
+"Orange Money: Paiement de 6000 FCFA pour MTN Cameroun effectué avec succès.",SMS,0
+"MTN MoMo: Votre code de retrait est 4521. Valable 10 minutes seulement.",SMS,0
+"Orange: Félicitations! Votre compte Orange Money est actif et sécurisé.",SMS,0
+"MTN Mobile Money: Reminder - Your MoMo account balance is 8900 FCFA.",SMS,0
+"Orange Money: Votre virement de 20000 FCFA a été reçu par Paul Biya Junior.",SMS,0
+"MTN: Service client disponible 24h/24 au 8585. Nous sommes là pour vous aider.",SMS,0
+"Orange Money Cameroun: Bienvenue dans notre réseau. Votre compte est activé.",SMS,0
+"ALERTE: Quelqu'un essaie d'accéder à votre MoMo. Appelez vite le 676000333.",WhatsApp,2
+"Gain exceptionnel MTN: 5000000 FCFA vous attendent. PIN requis au 676111444.",WhatsApp,2
+"Orange Money: Je suis technicien Orange. Donnez PIN pour résoudre problème réseau.",WhatsApp,2
+"Bourse Maroc 2025: Inscription ouverte. 3000 FCFA frais via Orange Money 699555444.",WhatsApp,2
+"OFFRE EMPLOI SERIEUSE: Total Energies recrute. Frais CV 5000 FCFA MoMo 676444222.",WhatsApp,2
+"MTN Cameroun OFFICIEL: Vous avez gagné data 10GB. Cliquez: mtn-data-gratuit.tk",WhatsApp,2
+"Orange: Votre compte sera supprimé dans 48h. Confirmez identité bit.ly/orange-cm",WhatsApp,2
+"Recrutement Gendarmerie 2025: 500 places. Frais inscription 4500 FCFA MoMo 676333111.",WhatsApp,2
+"MTN: Transaction suspecte de 150000 FCFA bloquée. Confirmez au 676222000.",WhatsApp,2
+"Orange Money PROMO: Envoyez 5000 FCFA recevez 50000 FCFA. Offre 1 heure seulement!",WhatsApp,2
